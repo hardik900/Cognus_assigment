@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="105" viewBox="0 0 78 105">
+  <g id="Group_7" data-name="Group 7" transform="translate(0 0.28)">
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="78" height="105" rx="13" transform="translate(0 -0.28)" fill="#f15a2b"/>
+    <g id="selection_1" data-name="selection 1" transform="translate(22 33.719)">
+      <g id="Group">
+        <g id="Group-2" data-name="Group">
+          <path id="Vector" d="M30.381,37a.91.91,0,0,1-.907-.916V34.1H7.527v1.986A.923.923,0,0,1,6.621,37H.916A.925.925,0,0,1,0,36.084v-5.7a.911.911,0,0,1,.916-.907H2.9V7.527H.916A.924.924,0,0,1,0,6.621V.916A.914.914,0,0,1,.916,0h5.7a.912.912,0,0,1,.907.916V2.9H29.474V.916A.923.923,0,0,1,30.381,0h5.7A.925.925,0,0,1,37,.916v5.7a.911.911,0,0,1-.916.907H34.1V29.474h1.986a.922.922,0,0,1,.916.907v5.7a.924.924,0,0,1-.916.916Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
