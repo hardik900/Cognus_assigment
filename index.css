@@ -13,7 +13,7 @@
     color: white;
     font-size: 12px;
     font-family: open sans;
-    margin-top: 40px;
+    margin-top: 0px;
 }
 
 @media screen and (max-width:1000px) {
@@ -63,10 +63,6 @@ ul li {
         /* justify-content: center; */
         text-align: center;
         gap: 4px;
-    }
-
-    .rightside ul li{
-          
     }
 
     .line {
@@ -254,7 +250,7 @@ input {
     z-index: 1;
     text-align: center;
     color: black;
-    /* padding: 10px; */
+    cursor: pointer;
 }
 
 @media screen and (max-width:656px) {
@@ -267,33 +263,31 @@ input {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 80px;
+    min-width: 120px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     padding: 12px 5px;
     z-index: 1;
     top: 20px;
     align-items: left;
-    /* left: 25%; */
 }
 
 .dropdown-content p {
     padding: 3px 0px;
-    font-size: 10px;
+    font-size: 15px;
     color: black;
 }
 
 .dropdown-content p:hover {
     background-color: #D7F0DB;
+    
 }
 
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
-
 .hamber-nav {
-    display: none;
-      flex-direction: column;
+    display: none;    
     width: 100%;
 }
 
@@ -332,7 +326,7 @@ input {
     }
 
     .img{
-        width:30%;
+        width:38%;
         height: 130px;
     }
 

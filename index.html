@@ -53,7 +53,7 @@
             </div>
         </div>
         <div class="hamber" onclick="myFunction()">
-            <i class="fa-solid fa-bars"></i>
+            <label for="check"><i style="cursor: pointer;"  class="fa-solid fa-bars"></i></label>
         </div>
     </nav>
 
@@ -249,11 +249,23 @@
     <script>
         function myFunction() {
             var x = document.getElementsByClassName("hamber-nav")[0];
+            // var check = document.getElementById('check').checked
+            // console.log(check,"fvdf")
             if (x.style.display === "inline-block") {
                 x.style.display = "none";
+                // x.style.transition = "all 3s";
             } else {
-                x.style.display = "inline-block";
+                // x.style.transition = "all 3s";
+                x.style.display = "inline-block";  
             }
+
+            // if(check == true){
+                
+            //     console.log("hello")
+            // }else{
+            //     check.style.transition = "all 3s";
+            //     console.log("not hello")
+            // }
         }
     </script>
 
